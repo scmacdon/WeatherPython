@@ -1,2 +1,4 @@
 # WeatherPython
-This stores all the Python scripts for Weathertop 
+
+This stores all the Python scripts for Weathertop tool.
+
