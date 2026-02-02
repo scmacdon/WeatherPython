@@ -1,0 +1,7 @@
+
+This will run JavaScript Docker 
+1 - docker build --quiet -t rust-tests .
+
+2 - docker run --rm -it -v "C:/Users/scmacdon/.aws:/root/.aws" -e AWS_REGION=us-east-1 rust-tests
+
+
